@@ -1,2 +1,2 @@
 # program
-Javascript 高级程序概念
+Javascript 高级编程思想
